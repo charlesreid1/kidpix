@@ -10,4 +10,4 @@ src="https://charlesreid1.com:3000/charlesreid1/kidpix/raw/master/MonaLisa_orig.
 **Result:**
 
 <img width="300px"
-src="https://charlesreid1.com:3000/charlesreid1/kidpix/raw/master/MonaLisa_thumb.jpg" />
+src="https://charlesreid1.com:3000/charlesreid1/kidpix/raw/master/MonaLisa_kidpix.jpg" />
